@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m mainly keen on A.I. computer vision and backend programming
 - 🌱 I’m currently learning, attending a Master Degree in "Intelligent and mobile computing" at Unipg 
 - ⚡ Research Intern at IRI - Institut de Robòtica i Informàtica Industrial (CSIC), Barcelona
+- :earth_africa: Erasmus+ at UPC - Barcelona
